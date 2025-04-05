@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Randil Fernando  
+**Computer Science Student @ Informatics Institute of Technology**  
 
-<!--
-**RandilFdo/RandilFdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔨 Technical Skills  
+- **Languages**: Python, Java, HTML/CSS  
+- **Tools**: Pandas, NumPy, Matplotlib, Adobe Photoshop  
+- **Web Development**: Front-end coding, Responsive Design  
+- **Other**: Data Analysis, Script Automation  
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects  
+1. **[Student-Grade Calculator](https://github.com/yourusername/student-grade-calculator)**  
+   - Java application for calculating student grades.  
+   - Skills: Object-Oriented Programming, Data Validation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **[School Database Management System](https://github.com/yourusername/school-db)**  
+   - Python system for organizing Excel-based student/teacher data.  
+   - Tech Stack: Pandas, Openpyxl.  
+
+3. **[Automated File Organizer](https://github.com/yourusername/file-organizer)**  
+   - Python script to automate file sorting.  
+   - Skills: Script Automation, System Operations.  
+
+### 📚 Education  
+- **BSc (Hons) Computer Science**, University of Westminster *(Expected 2028)*  
+- **Foundation Certificate**, Informatics Institute of Technology  
+
+### 📫 Let's Connect  
+- LinkedIn: [linkedin.com/in/randil-fernando](https://www.linkedin.com/in/randil-fernando-01839628a)  
+- Email: randifernando888@gmail.com  
+- GitHub: [github.com/RandilFdo](https://github.com/RandilFdo)  
