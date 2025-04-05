@@ -3,7 +3,7 @@
 
 ### 🔗 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-blue?logo=linkedin)](https://linkedin.com/in/randil-fernando-01839628a)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-FOLLOW-teal?logo=kaggle)](https://www.kaggle.com/randlifdo)  
+[![Kaggle](https://img.shields.io/badge/KAGGLE-FOLLOW-teal?logo=kaggle)](https://www.kaggle.com/randilfdo)  
 [![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-orange?logo=leetcode)](https://leetcode.com/u/Randlifernando/)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?logo=gmail)](mailto:randilfernando829@gmail.com)
 
