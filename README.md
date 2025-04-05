@@ -1,6 +1,12 @@
 # 👋 Hi, I’m Randil Fernando  
 **Computer Science Student @ Informatics Institute of Technology**  
 
+### 🔗 **Connect With Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-blue?logo=linkedin)](https://linkedin.com/in/randil-fernando-01839628a)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-FOLLOW-teal?logo=kaggle)](https://www.kaggle.com/randlifdo)  
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-orange?logo=leetcode)](https://leetcode.com/u/Randlifernando/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?logo=gmail)](mailto:randilfernando829@gmail.com)
+
 ### 🔨 Technical Skills  
 - **Languages**: Python, Java, HTML/CSS  
 - **Tools**: Pandas, NumPy, Matplotlib, Adobe Photoshop  
@@ -23,8 +29,3 @@
 ### 📚 Education  
 - **BSc (Hons) Computer Science**, University of Westminster *(Expected 2028)*  
 - **Foundation Certificate**, Informatics Institute of Technology  
-
-### 📫 Let's Connect  
-- LinkedIn: [linkedin.com/in/randil-fernando](https://www.linkedin.com/in/randil-fernando-01839628a)  
-- Email: randifernando888@gmail.com  
-- GitHub: [github.com/RandilFdo](https://github.com/RandilFdo)  
