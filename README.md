@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Projects  
 
-1. **[FARM To-Do App](https://github.com/RandilFdo/FARM-To-Do-App)**  
+1. **[FARM To-Do App](https://github.com/RandilFdo/FARM-todo-fullstack-app)**  
    A fullstack to-do list application built with the FARM stack: FastAPI backend, React frontend, MongoDB for storage, and Docker containerization.  
    - Features: CRUD to-do items, Dockerized services, automatic API docs with Swagger, modern React UI.
 
