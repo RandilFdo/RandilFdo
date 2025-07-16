@@ -11,7 +11,7 @@
 - **Frameworks & Libraries:** React, FastAPI, Node.js, Tailwind CSS, shadcn-ui  
 - **Databases:** MongoDB  
 - **Tools & Platforms:** Docker, Uvicorn, Git, Vite, Spline  
-- **Other:** Front-end app development, Back-end development, Web development, Responsive design, UK-based student  
+- **Other:** Front-end app development, Back-end development, Web development, Responsive design
 
 ### 🚀 Featured Projects  
 
