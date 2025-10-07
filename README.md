@@ -72,7 +72,8 @@ Currently diving deep into **full-stack development**, **AI/ML**, and **mobile a
 
 ### 📊 GitHub Stats  
 
-![Randil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandilFdo&show_icons=true&theme=radical)  
+![Randil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandilFdo&show_icons=true&count_private=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilFdo&layout=compact&theme=radical)
 
 ---
