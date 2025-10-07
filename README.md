@@ -53,11 +53,6 @@
 ---
 
 ### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandilFdo&show_icons=true&count_private=true&theme=default" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RandilFdo&theme=default" height="160px"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RandilFdo&show_icons=true&count_private=true&theme=radical&bg_color=1a0b2e&title_color=00fff0&text_color=e0e0ff&icon_color=ff6ec7" alt="Randil's GitHub Stats" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandilFdo&layout=compact&theme=radical&bg_color=1a0b2e&title_color=00fff0&text_color=e0e0ff" alt="Top Languages" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=RandilFdo&theme=radical&background=1a0b2e&ring=ff6ec7&fire=00fff0&currStreakLabel=00fff0" alt="GitHub Streak"/>
