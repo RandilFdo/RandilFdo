@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-blue?logo=linkedin)](https://linkedin.com/in/randil-fernando-01839628a)
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-black?logo=github)](https://github.com/RandilFdo)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?logo=gmail)](mailto:randilfernando829@gmail.com)
-<img src="https://media.tenor.com/BLBESZVhftkAAAAi/pokemon-mudkip.gif" width="40" style="vertical-align: middle; margin-left: 10px;" />
+<img src="https://media.tenor.com/BLBESZVhftkAAAAi/pokemon-mudkip.gif" width="80" style="vertical-align: middle; margin-left: 10px;" />
 
 
 ### 🔨 Technical Skills  
