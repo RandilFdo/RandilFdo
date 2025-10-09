@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?logo=gmail)](mailto:randilfernando829@gmail.com)
 
 <div align="center">
-  <img src="https://media.tenor.com/BLBESZVhftkAAAAi/pokemon-mudkip.gif" width="400" />
+  <img src="https://media.tenor.com/BLBESZVhftkAAAAi/pokemon-mudkip.gif" width="200" />
 </div>
 
 ---
