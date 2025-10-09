@@ -6,6 +6,10 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-black?logo=github)](https://github.com/RandilFdo)  
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?logo=gmail)](mailto:randilfernando829@gmail.com)
 
+<div align="center">
+  <img src="https://media.tenor.com/BLBESZVhftkAAAAi/pokemon-mudkip.gif" width="400" />
+</div>
+
 ---
 
 ### 🔨 Technical Skills  
