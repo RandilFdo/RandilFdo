@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Randil Fernando  
+
+█▀█ ▄▀█ █▄░█ █▀▄ █ █░░   █▀▀ █▀▀ █▀█ █▄░█ ▄▀█ █▄░█ █▀▄ █▀█
+█▀▄ █▀█ █░▀█ █▄▀ █ █▄▄   █▀░ ██▄ █▀▄ █░▀█ █▀█ █░▀█ █▄▀ █▄█
 **Computer Science Student @ Informatics Institute of Technology**  
 
 ### 🔗 **Connect With Me**  
@@ -45,11 +47,6 @@ Front-end App Development • Back-end Development • Web Development • Respo
 
 ---
 
-### 🎓 Certifications
-- **Certificate in Machine Learning**, [Your Platform] – 2025  
-
----
-
 ### 🚀 Featured Projects  
 
 1. **[4Rent.lk](https://4rent-lk-66uy.vercel.app/)**  
@@ -72,7 +69,7 @@ Front-end App Development • Back-end Development • Web Development • Respo
 
 ### 📚 Education  
 - **BSc (Hons) Computer Science**, University of Westminster *(Expected 2028)*  
-- **Certificate in Machine Learning**, [Platform Name] *(2025)*  
+- **Certificate in Machine Learning**, PDU, Informatics Institute of Technology *(2025)*  
 - **Diploma in English and IT**, ESOFT Metro Campus  
 - **Foundation Certificate**, Informatics Institute of Technology  
 
