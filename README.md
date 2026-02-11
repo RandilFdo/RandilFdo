@@ -75,5 +75,4 @@ Front-end App Development • Back-end Development • Web Development • Respo
 - **Diploma in English and IT**, ESOFT Metro Campus  
 - **Foundation Certificate**, Informatics Institute of Technology  
 
----"160px"/>
-
+---
