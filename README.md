@@ -75,9 +75,5 @@ Front-end App Development • Back-end Development • Web Development • Respo
 - **Diploma in English and IT**, ESOFT Metro Campus  
 - **Foundation Certificate**, Informatics Institute of Technology  
 
----
-
-### 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=RandilFdo&show_icons=true&count_private=true&theme=radical&bg_color=1a0b2e&title_color=00fff0&text_color=e0e0ff&icon_color=ff6ec7" alt="Randil's GitHub Stats" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandilFdo&layout=compact&theme=radical&bg_color=1a0b2e&title_color=00fff0&text_color=e0e0ff" alt="Top Languages" height="160px"/>
+---"160px"/>
 
