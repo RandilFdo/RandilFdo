@@ -73,6 +73,7 @@ Front-end App Development • Back-end Development • Web Development • Respo
 - **BSc (Hons) Computer Science**, University of Westminster *(Expected 2028)*  
 - **Certificate in Machine Learning**, PDU, Informatics Institute of Technology *(2025)*  
 - **Diploma in English and IT**, ESOFT Metro Campus  
-- **Foundation Certificate**, Informatics Institute of Technology  
+- **Foundation Certificate**, Informatics Institute of Technology
+- **C2 Proficiency (CPE)**, Cambridge exams, British Council
 
 ---
