@@ -1,7 +1,4 @@
-<pre>
-█▀█ ▄▀█ █▄░█ █▀▄ █ █░░   █▀▀ █▀▀ █▀█ █▄░█ ▄▀█ █▄░█ █▀▄ █▀█
-█▀▄ █▀█ █░▀█ █▄▀ █ █▄▄   █▀░ ██▄ █▀▄ █░▀█ █▀█ █░▀█ █▄▀ █▄█
-</pre>
+# Randil Fernando | Full-Stack Engineer & DevNeko Founder
 
 **Computer Science Student @ Informatics Institute of Technology**  
 
@@ -49,24 +46,25 @@ Front-end App Development • Back-end Development • Web Development • Respo
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Featured Projects
 
-1. **[4Rent.lk](https://4rent-lk-66uy.vercel.app/)**  
-   A fully functional rental platform for Sri Lanka — vehicles, properties, and experiences.  
-   - Built with **TypeScript, React, MongoDB, and Vercel**  
+1. **4Rent.lk | Enterprise-Grade Rental Platform**
+   A fully functional rental marketplace for Sri Lanka handling vehicles, properties, and experiences. 
+   - **Tech:** Next.js, TypeScript, MongoDB.
+   - **Infrastructure:** Docker, Jenkins CI/CD pipeline, Prometheus/Grafana monitoring.
+   - **Security:** Integrated **WSO2 Asgardeo** for Centralized Identity and Access Management (CIAM).
 
-2. **[SQRL – Budget Tracker App](https://github.com/RandilFdo/SQRL-Budget-Tracker)**  
-   A **Kotlin Android app** for tracking expenses and managing budgets.  
+2. **DevNeko Studio**
+   My client-facing web development agency. I engineer lightning-fast, highly-optimized websites and custom SaaS landing pages for modern brands.
 
-3. **[Motion Relief App](https://github.com/RandilFdo/Motion-Relief)**  
-   Android app to reduce motion sickness with a moving dot overlay.  
+3. **SQRL – Budget Tracker App**
+   A robust Kotlin Android app for tracking expenses and managing personal finance budgets.
 
-4. **[Pixel Scholar](https://pixelschlr.netlify.app/)**  
-   Gamified study tracker web app — earn XP and evolve monsters by studying more.  
+4. **Motion Relief App**
+   An innovative Kotlin Android application designed to reduce motion sickness using a moving dot overlay.
 
-5. **[DevNeko Website](https://randilfdo.github.io/DevNeko/)**  
-   Client-facing web development business site, backend in progress.
-
+5. **Pixel Scholar**
+   A gamified study tracker web app—earn XP and evolve monsters by maintaining study streaks.
 ---
 
 ### 📚 Education  
