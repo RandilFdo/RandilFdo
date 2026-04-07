@@ -1,4 +1,4 @@
-# Randil Fernando | Full-Stack Engineer & DevNeko Founder
+# Randil Fernando | Full-Stack Engineer | AI & Robotics Engineering Intern @ WSO2
 
 **Computer Science Student @ Informatics Institute of Technology**  
 
@@ -42,7 +42,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 **Other**  
-Front-end App Development • Back-end Development • Web Development • Responsive Design
+App Development • Back-end Development • Web Development • Cad Design • Fusion 360 • Simulations
 
 ---
 
